@@ -1,0 +1,50 @@
+input:focus {
+  outline: none !important;
+  box-shadow: 0 0 15px #282c34;
+}
+
+.text-red {
+  color: red;
+}
+
+body {
+  background-color: #282c34;
+
+}
+
+.App {
+  background-color: #282c34;
+}
+
+.Login {
+  padding: 20px;
+}
+
+.LoginTittle h1 {
+  font-weight: 700;
+  color: white;
+}
+
+.LoginForm {
+  background-color: #20232a;
+  width: 470px;
+  padding: 30px;
+  padding-bottom: 20px;
+  border-radius: 20px;
+  /* box-shadow: 5px 10px rgba(0, 0, 0, 0.086); */
+}
+
+.FormInput {
+  background-color: #373940;
+  color: white;
+  border-radius: 10px;
+  border: none;
+  height: 40px;
+  width: 410px;
+  padding-left: 12px;
+}
+
+.LoginContainer {
+  height: 100vh;
+}
+
